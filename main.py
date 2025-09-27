@@ -8,8 +8,6 @@
 # # print(process.sentence)
 # print(balance)
 # print(bal)
-# print(add_num(6, 9))
-
 
 
 
@@ -29,4 +27,5 @@ print(our_choices)
 # guess_int = ran.randint(1, 6)
 # guess_float = ran.uniform(1, 6)
 # any_float = ran.random()
+
 # print(any_float)
